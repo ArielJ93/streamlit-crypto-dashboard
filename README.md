@@ -1,5 +1,6 @@
 # Streamlit crypto analytics 
 
+[https://app-crypto-dashboard.streamlit.app/](https://app-crypto-dashboard.streamlit.app/)
 
 **The present project consist of a dashboard of cryptocurrencies with data obtained by calling a FastAPI endpoint**
     
